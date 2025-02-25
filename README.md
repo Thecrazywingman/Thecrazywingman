@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Thecrazywingman
-- 👀 I’m interested in everthing to do with JavaScript, Python, Html, CSS, Fancade and C++!
-- 🌱 I’m currently learning C++ using SoloLearn
+- 👀 I’m interested in videogames that are written in JavaScript, Python or C++.
+- 🌱 I’m currently working on a small, engineless platformer videogame in C++.
 - 💞️ I’m CURRENTLY NOT looking to collaborate on ABSOLUTELY NOTHING YET
-- 📫 How to reach me ... NOT!
+- 📫 You can email me on terastudiosofficial@gmail.com!
 
 <!---
 Thecrazywingman/Thecrazywingman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
