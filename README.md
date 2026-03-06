@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Thecrazywingman
-- 👀 I’m interested in videogames that are written in JavaScript, Python or C++.
+- 👀 I’m interested in videogames that are written in JavaScript, Python, C++ or C#.
 - 🌱 I’m currently working on a small, engineless platformer videogame in C++.
 - 💞️ I’m CURRENTLY NOT looking to collaborate.
 - 📫 You can email me on terastudiosofficial@gmail.com!
